@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/camTest.cs">
+    <Files>
+      <File FileName="Assets/startCode.cs" Line="1" Column="1" />
+      <File FileName="Assets/jumpCode.cs" Line="28" Column="34" />
+      <File FileName="Assets/camTest.cs" Line="37" Column="19" />
+      <File FileName="Assets/buddon.cs" Line="1" Column="1" />
+      <File FileName="Assets/camSetUp.cs" Line="1" Column="1" />
+      <File FileName="Assets/healthBar.cs" Line="37" Column="3" />
+      <File FileName="Assets/gunShot.cs" Line="1" Column="1" />
+      <File FileName="Assets/spawnerCode.cs" Line="28" Column="4" />
+      <File FileName="Assets/enemyCode.cs" Line="32" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
